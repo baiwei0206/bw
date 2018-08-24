@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to bw
 
 You can use the [editor on GitHub](https://github.com/baiwei0206/bw/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
